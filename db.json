@@ -1,0 +1,18 @@
+{
+  "courses": [
+    {
+      "title": "Introduction to React",
+      "description": "Learn the basics of React.js",
+      "duration": "4 weeks",
+      "category": "Web Development",
+      "id": 1
+    },
+    {
+      "title": "Data Science Fundamentals",
+      "description": "Introduction to data analysis",
+      "duration": "2 weeks",
+      "category": "Programming",
+      "id": 3
+    }
+  ]
+}
